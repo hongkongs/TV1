@@ -1,3 +1,19 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+freetv.fun
+php.jdshipin.com
+migu.188766.xyz
+www.freetv.top
+gslbmgsplive.miguvideo.com
+live.lalifeier.eu.org
+dsj.motem.top
+iptv.huuc.edu.cn
+smart.pendy.dpdns.org
+iptv.666230.xyz
+stream.thmz.com
+hls-gateway.vpstv.net
+z.b.bkpcp.top
+goo.bkpcp.top
+j.x.bkpcp.top
+iptv.cdn.ha.chinamobile.com
